@@ -1,9 +1,10 @@
+// Yoad Shiran
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include "slist.h"
 
-// Yoad Shiran - 302978713
 
 void slist_init(slist_t *pointer_list)
 {
