@@ -1,9 +1,11 @@
+// Yoad Shiran
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include "pattern_matching.h"
 
-// Yoad Shiran - 302978713
+
 
 /* Initializes the fsm parameters (the fsm itself sould be allocated).  Returns 0 on success, -1 on failure. 
 *  this function should init zero state
