@@ -1,5 +1,8 @@
 // Yoad Shiran
-
+/*
+  @file
+  @brief implementation of pattern matching algorithm.
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
