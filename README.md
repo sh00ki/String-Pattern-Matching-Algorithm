@@ -1,8 +1,11 @@
 Yoad Shiran,
 
-EX1 - String Pattern Matching Algorithm.
+String Pattern Matching Algorithm.
 ==========================================
 constructing DFA using strings check if given string is in DFA's language
+
+
+
 
 Submitted files:
 	
